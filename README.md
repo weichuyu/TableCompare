@@ -4,7 +4,7 @@
 非常适合写报表sql时熟悉表结构，并且你不想自己看项目代码也找不到开发问表结构的情况。
 比如下面这两个库：  
 ![image](https://github.com/weichuyu/TableCompare/blob/master/sample/img/table.PNG)  
-建议使用方式：
+建议使用方式：  
 （一）剔除历史数据，在本地建一份干净的数据库环境。  
 （二）启动项目做操作前，备份整个数据库。  
 （三）每做一部操作，就执行一次本项目main方法，生成每一步操作对数据库的修改情况excel。  
