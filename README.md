@@ -1,9 +1,9 @@
 # TableCompare
 一、比较两个一样表结构库的所有表，并生成excel文件说明 所有表对比下的 新增记录 删除记录 修改记录。 
 本代码适用于熟悉新接手项目中各个功能修改了那些表，以及在自己测试中更清楚的查看各个表的修改情况是否符合预期。
-非常适合写报表sql时熟悉表结构，并且你不想自己看项目代码也找不到开发问表结构的情况。
+非常适合写报表sql时熟悉表结构，并且你不想自己看项目代码也找不到开发问表结构的情况。  
 比如下面这两个库：  
-![image](https://github.com/weichuyu/TableCompare/blob/master/sample/img/table.PNG)  
+![image](https://github.com/weichuyu/TableCompare/blob/master/sample/img/table.PNG)
 建议使用方式：  
 （一）剔除历史数据，在本地建一份干净的数据库环境。  
 （二）启动项目做操作前，备份整个数据库。  
