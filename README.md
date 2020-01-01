@@ -2,6 +2,7 @@
 一、比较两个相似库的表，如果表存在差异，会生成excel文件说明 新增记录 删除记录 修改记录  
 
 二、使用方法  
+（一）修改config.properties  
 ![image](https://github.com/weichuyu/TableCompare/blob/master/sample/img/configproperties.PNG)
 
 
